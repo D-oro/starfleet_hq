@@ -1,1 +1,10 @@
 opentelemetry-javaagent.jar
+.vscode/
+.idea/
+target/
+**/target/
+.classpath
+.project
+.settings/
+.spring-boot-devtools.properties
+*.log
