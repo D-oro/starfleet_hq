@@ -1,0 +1,4 @@
+org/example/shipservice/config/RestClientConfig.class
+org/example/shipservice/service/ShipService.class
+org/example/shipservice/ShipApplication.class
+org/example/shipservice/controller/ShipController.class
